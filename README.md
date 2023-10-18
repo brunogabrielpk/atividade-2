@@ -6,7 +6,7 @@
 ## Descrição da Atividade
 ### Aplicação
 - O aluno ou grupos de alunos deverão implementar um CRUD de usuários ( o aluno ou grupo poderá escolher entre uma interface através do navegador ou do terminal).  
-- O aluno(ou duple) poderá escolher qualquer linguagem de programação 
+- O aluno(ou dupla) poderá escolher qualquer linguagem de programação 
 - Um menu deverá ser apresentado ao usuário com as seguintes opções: Cadastrar pessoa, Pesquisar pessoa, deletar pessoa e sair.
 - Cada pessoa deve possuir um nome (texto), uma idade(numérico) um endereço(texto). Todos itens obrigatórios. Numéricos devem ser diferente de zero e texto não podem ser vazios.
 - A aplicação deverá ser empacotada em uma imagem de container.
