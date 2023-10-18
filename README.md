@@ -1,6 +1,6 @@
 # Atividade 02
 
-- Prazo para entrega: 15/10/2023 12:00
+- Prazo para entrega: 25/10/2023 12:00
 - Valor: 1,0 pontos da P2
 
 ## Descrição da Atividade
